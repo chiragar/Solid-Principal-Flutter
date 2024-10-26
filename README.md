@@ -1,10 +1,7 @@
-# Dart
+# Solid Principal Flutter
 
-A Help For Easily Understand Dart 
+The SOLID principles, created for object-oriented programming, are valuable in Flutter for structuring scalable and maintainable applications. Here's how each principle applies to Flutter development:
 
-# Acknowledgements
-
- - Solid Principal 
  1. single_repository_principle.dart 
  2. open_closed_principle.dart
  3. liskov_substitution_principle.dart
